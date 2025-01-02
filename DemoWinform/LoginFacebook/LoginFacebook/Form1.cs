@@ -80,7 +80,7 @@ namespace Form1
                     }
                     else
                     {
-                        MessageBox.Show("Không tìm thấy nút 'Continue' trên trang!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        MessageBox.Show("Không thể đăng nhập", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     }
                 }
                 else
@@ -93,7 +93,7 @@ namespace Form1
             }
             catch (Exception ex)
             {
-                MessageBox.Show($"Đã xảy ra lỗi với tài khoản {userName}: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show($"Không thể đăng nhập {userName}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             finally
             {
