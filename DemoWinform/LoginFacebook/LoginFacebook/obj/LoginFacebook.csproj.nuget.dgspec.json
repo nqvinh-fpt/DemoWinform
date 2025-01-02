@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vinh1\\Downloads\\DEV\\LoginFacebook\\LoginFacebook\\LoginFacebook.csproj": {}
+    "D:\\FA24\\DemoWinform\\DemoWinform\\LoginFacebook\\LoginFacebook\\LoginFacebook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vinh1\\Downloads\\DEV\\LoginFacebook\\LoginFacebook\\LoginFacebook.csproj": {
+    "D:\\FA24\\DemoWinform\\DemoWinform\\LoginFacebook\\LoginFacebook\\LoginFacebook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vinh1\\Downloads\\DEV\\LoginFacebook\\LoginFacebook\\LoginFacebook.csproj",
+        "projectUniqueName": "D:\\FA24\\DemoWinform\\DemoWinform\\LoginFacebook\\LoginFacebook\\LoginFacebook.csproj",
         "projectName": "LoginFacebook",
-        "projectPath": "C:\\Users\\vinh1\\Downloads\\DEV\\LoginFacebook\\LoginFacebook\\LoginFacebook.csproj",
+        "projectPath": "D:\\FA24\\DemoWinform\\DemoWinform\\LoginFacebook\\LoginFacebook\\LoginFacebook.csproj",
         "packagesPath": "C:\\Users\\vinh1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vinh1\\Downloads\\DEV\\LoginFacebook\\LoginFacebook\\obj\\",
+        "outputPath": "D:\\FA24\\DemoWinform\\DemoWinform\\LoginFacebook\\LoginFacebook\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

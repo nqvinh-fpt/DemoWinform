@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoginFacebook")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75b57ab536fa12b5820c477910cc63d939dffd7b")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoginFacebook")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoginFacebook")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

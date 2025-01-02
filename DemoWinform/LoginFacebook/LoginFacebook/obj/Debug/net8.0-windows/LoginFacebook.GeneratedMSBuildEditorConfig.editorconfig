@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LoginFacebook
-build_property.ProjectDir = C:\Users\vinh1\Downloads\DEV\LoginFacebook\LoginFacebook\
+build_property.ProjectDir = D:\FA24\DemoWinform\DemoWinform\LoginFacebook\LoginFacebook\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
