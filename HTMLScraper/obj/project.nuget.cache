@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6YUQrm38YV+9IokwNgfCZb4X53Ma3jgZ9kirmqKMbLeJ+eAnWA34X3JuU/gyyfBoGiKVBfNS6YdgwoFq5YwPQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinh1\\Downloads\\DEV\\HTMLScraper\\HTMLScraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinh1\\.nuget\\packages\\htmlagilitypack\\1.11.72\\htmlagilitypack.1.11.72.nupkg.sha512",
+    "C:\\Users\\vinh1\\.nuget\\packages\\selenium.webdriver\\4.27.0\\selenium.webdriver.4.27.0.nupkg.sha512",
+    "C:\\Users\\vinh1\\.nuget\\packages\\selenium.webdriver.chromedriver\\131.0.6778.20400\\selenium.webdriver.chromedriver.131.0.6778.20400.nupkg.sha512"
+  ],
+  "logs": []
+}
