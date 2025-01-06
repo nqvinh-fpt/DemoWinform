@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hXCbgOXqieHMzGWInB3NAWjY0/xvNawOWg4YS7Qn7hNXraMxjBNhFXnuhvpDGj5/kT/Gj5V4sexKyHwrJf0Ysg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinh1\\Downloads\\DEV\\ReantSim\\ReantSim.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinh1\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
